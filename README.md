@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+I'm Sofia, from Italy. I'm passionate about Data Science and here you can find my latest projects.
 
 <!--
 **sofiagiordano/sofiagiordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
